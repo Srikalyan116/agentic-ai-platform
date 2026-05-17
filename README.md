@@ -117,21 +117,3 @@ http://localhost:5173
 docker-compose up --build
 ```
 
-## Why This Project Is Professional
-
-This project directly demonstrates:
-
-- Front-end development using React, HTML, CSS, and JavaScript
-- Responsive and adaptive UI design
-- Back-end development using Python and FastAPI
-- REST API design and integration
-- Database modeling using SQLAlchemy
-- Clean, maintainable code
-- API-driven front-end/back-end communication
-- Docker-based deployment
-- CI/CD pipeline using GitHub Actions
-- AI-first thinking through automated task scoring and recommendation logic
-
-## Resume / Interview Explanation
-
-I built an AI-first full-stack workflow platform using React, FastAPI, SQLAlchemy, and Docker. The system allows users to create, manage, and track project tasks through a responsive dashboard. I implemented RESTful APIs, database models, API integration, task analytics, and AI-style priority scoring. The project follows clean code practices, supports containerized deployment, and includes a CI/CD pipeline using GitHub Actions.
